@@ -1,0 +1,11 @@
+com/online_shop/MainActivity.java
+ com.online_shop.MainActivity
+ com.online_shop.MainActivity$1
+com/online_shop/SecondFragment.java
+ com.online_shop.SecondFragment
+ com.online_shop.SecondFragment$1
+com/online_shop/FirstFragment.java
+ com.online_shop.FirstFragment
+ com.online_shop.FirstFragment$1
+com/online_shop/BuildConfig.java
+ com.online_shop.BuildConfig

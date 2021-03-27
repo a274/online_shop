@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f98923cb-edd3-48a2-9a1a-e27ca269a2dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/online_shop/core/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/online_shop/core/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/androidTest/java/test/itschool/samsung/ru/eco_lavka/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/AdapterMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/MemberData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/Message1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/TextProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/activities/Categories.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/activities/Chat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/activities/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/activities/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/activities/MainWidgets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/activities/RegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/activities/Temp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/AddProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/AppDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/BaseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/CartActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/CartEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/CartFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/CartHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/CartItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/CartItemsEntityModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/CartRecyclerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/DeleteProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/GetCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductEntityModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductRecyclerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/ProductsHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/QuantityOutOfRangeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/cart/SimpleBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/server_connect/Auth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/server_connect/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/server_connect/Registration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/server_connect/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/java/test/itschool/samsung/ru/eco_lavka/server_connect/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/a001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/a002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/a003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/arrow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/badge_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/cart.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/header_gradient.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/ic_send_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/massage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/meat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/milk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/my_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/their_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/drawable/vegetable.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/activity_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/chat_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/fragment_cart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/fragment_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/item_cart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/item_product.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/main_widgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/menu_categories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/my_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/shopping_catr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/temp_cart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/text_categories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/their_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/layout/view_custom_action_cart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/menu/menu_products.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/xml/network_security_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/main/res/xml/user_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/app/src/test/java/test/itschool/samsung/ru/eco_lavka/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eco/project1-working-branch/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qIqld2EVWjlx7aGqjXrGV8wwwk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-26T17:05:18.912Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Nexus_5X_API_29" />
+    <property name="android.sdk.path" value="D:/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="online_shop.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f98923cb-edd3-48a2-9a1a-e27ca269a2dd" name="Default Changelist" comment="" />
+      <created>1616777603148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616777603148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616833501413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1616833501413" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1616778467653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616778467653" />
+    <state x="398" y="176" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1616778331385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="176" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1536.824@0.0.1536.824" timestamp="1616778331385" />
+  </component>
+</project>
