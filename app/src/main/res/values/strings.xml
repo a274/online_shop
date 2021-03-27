@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">online_shop</string>
+    <string name="app_name">eco lavka</string>
+    <string name="been_registered">You are already registered!</string>
+    <string name="register_success">You are registered successfully!</string>
+    <string name="reg_error">Error occurred.</string>
+    <string name="fill_the_field">Fill the field</string>
+    <string name="login_error">Login or password is wrong.</string>
+
+
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
