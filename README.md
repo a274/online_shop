@@ -1,5 +1,5 @@
 # Приложение под Andriod "интернет-магазин фермерских продуктов"
-####Приложение имеет следующий функционал:
+#### Приложение имеет следующий функционал:
 - просмотр фотографий товаров
 - сохранение товаров в корзину
 - выбор количества покупаемого товара
@@ -11,7 +11,7 @@
 - редактирование личных данных
 
 
-####Описание зависимостей:
+#### Описание зависимостей:
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.google.firebase:firebase-database:19.7.0'
     implementation 'com.firebaseui:firebase-ui:0.6.2'
@@ -43,7 +43,7 @@
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     
-####Сборка проекта:
+#### Сборка проекта:
 Приложение открывается и собирается в среде разработки Android Studio 
 и затем устанавливается на физическое устройство либо на эмулятор.
 
