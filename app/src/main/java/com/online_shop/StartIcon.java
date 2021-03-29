@@ -9,6 +9,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.online_shop.login.LoginActivity;
 import com.online_shop.menu.MainMenu;
 
+/**
+ * This is the entry point in the app.
+ * Here it is found out whether a user has been already logged in or not.
+ * If it has, the Main Menu is depicted, otherwise the Login Page is depicted.
+ */
+
+
 public class StartIcon extends AppCompatActivity {
 
     SharedPreferences sharedPreferences;

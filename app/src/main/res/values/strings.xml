@@ -5,6 +5,7 @@
     <string name="reg_error">Error occurred.</string>
     <string name="fill_the_field">Fill the field</string>
     <string name="login_error">Login or password is wrong.</string>
+    <string name="waiting">waiting..</string>
 
 
     <string name="action_settings">Settings</string>
