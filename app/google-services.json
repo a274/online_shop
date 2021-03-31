@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "821709922194",
+    "firebase_url": "https://eco-lavka.firebaseio.com",
+    "project_id": "eco-lavka",
+    "storage_bucket": "eco-lavka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821709922194:android:82c8240c71f784869bab4b",
+        "android_client_info": {
+          "package_name": "com.online_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821709922194-badqncs2569edt7n9fn5danup5q4701u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWenONspG24sAWhS021mgpjVXLP5JDITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821709922194-badqncs2569edt7n9fn5danup5q4701u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821709922194:android:d7b66937556f94ac9bab4b",
+        "android_client_info": {
+          "package_name": "test.itschool.samsung.ru.eco_lavka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821709922194-r9c2eib2cv110dv8o685ian3ke1m3822.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.itschool.samsung.ru.eco_lavka",
+            "certificate_hash": "2c4ed6c54e9143f9e6c19cfaa530a1cf6d9b22be"
+          }
+        },
+        {
+          "client_id": "821709922194-badqncs2569edt7n9fn5danup5q4701u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWenONspG24sAWhS021mgpjVXLP5JDITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821709922194-badqncs2569edt7n9fn5danup5q4701u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

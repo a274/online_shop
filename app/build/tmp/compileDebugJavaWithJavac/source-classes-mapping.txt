@@ -1,11 +1,30 @@
-com/online_shop/MainActivity.java
- com.online_shop.MainActivity
- com.online_shop.MainActivity$1
+com/online_shop/login/Authorization.java
+ com.online_shop.login.Authorization
+ com.online_shop.login.Authorization$1
+ com.online_shop.login.Authorization$Account
+com/online_shop/core/App.java
+ com.online_shop.core.App
+com/online_shop/menu/MainMenu.java
+ com.online_shop.menu.MainMenu
 com/online_shop/SecondFragment.java
  com.online_shop.SecondFragment
  com.online_shop.SecondFragment$1
+com/online_shop/StartIcon.java
+ com.online_shop.StartIcon
+com/online_shop/core/UserService.java
+ com.online_shop.core.UserService
+com/online_shop/core/TextProcessing.java
+ com.online_shop.core.TextProcessing
 com/online_shop/FirstFragment.java
  com.online_shop.FirstFragment
  com.online_shop.FirstFragment$1
+com/online_shop/registration/RegisterActivity.java
+ com.online_shop.registration.RegisterActivity
+com/online_shop/registration/Authentication.java
+ com.online_shop.registration.Authentication
+ com.online_shop.registration.Authentication$1
 com/online_shop/BuildConfig.java
  com.online_shop.BuildConfig
+com/online_shop/login/LoginActivity.java
+ com.online_shop.login.LoginActivity
+ com.online_shop.login.LoginActivity$SetAnswer

@@ -24,7 +24,6 @@ public class StartIcon extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // ---------------- TO DO LAYOUT
         setContentView(R.layout.activity_main);
         sharedPreferences = getSharedPreferences("user_setting", MODE_PRIVATE);
         int id = sharedPreferences.getInt(SAVED_ID, 0);

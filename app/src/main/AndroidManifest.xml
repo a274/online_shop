@@ -29,6 +29,21 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".registration.RegisterActivity"
+            android:label="registration">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".menu.MainMenu"
+            android:label="main_menu">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

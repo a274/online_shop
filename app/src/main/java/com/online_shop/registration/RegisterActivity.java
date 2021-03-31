@@ -20,21 +20,17 @@ public class RegisterActivity extends Activity implements TextProcessing {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.register);
+        setContentView(R.layout.activity_register);
 
-        rName = findViewById(R.id.reg_name);
-        rSurname = findViewById(R.id.reg_surname);
-        rEmail = findViewById(R.id.reg_email);
-        rPassword = findViewById(R.id.reg_password);
-        rAddress = findViewById(R.id.reg_address);
-        rPhoneNumber = findViewById(R.id.reg_mobilenumber);
-
-        // LOGIN
-        TextView loginScreen = findViewById(R.id.link_to_login);
-        loginScreen.setOnClickListener(v -> finish());
+        rName = findViewById(R.id.etName);
+        rSurname = findViewById(R.id.etSurname);
+        rEmail = findViewById(R.id.etEmail);
+        rPassword = findViewById(R.id.etPassword);
+        rAddress = findViewById(R.id.etAddress);
+        rPhoneNumber = findViewById(R.id.etMobileNumber);
 
         //REGISTER
-        Button btnRegister = findViewById(R.id.btnRegister);
+        Button btnRegister = findViewById(R.id.bReg);
         btnRegister.setOnClickListener(this::sendPOST);
     }
 

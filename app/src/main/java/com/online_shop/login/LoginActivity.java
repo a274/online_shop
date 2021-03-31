@@ -38,22 +38,21 @@ public class LoginActivity extends Activity implements TextProcessing {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //TO DO LOGIN LAYOUT
-        setContentView(R.layout.login);
+        setContentView(R.layout.activity_login);
 
         //REGISTER
-        TextView registerScreen = findViewById(R.id.link_to_register);
+        TextView registerScreen = findViewById(R.id.linkToRegister);
         registerScreen.setOnClickListener(v -> {
             Intent i = new Intent(LoginActivity.this, RegisterActivity.class);
             startActivity(i);
         });
 
         answer = findViewById(R.id.answer);
-        log = findViewById(R.id.login);
-        pass = findViewById(R.id.password);
+        log = findViewById(R.id.etEmail);
+        pass = findViewById(R.id.etPassword);
 
         //LOGIN
-        Button enterLogin = findViewById(R.id.btnLogin);
+        Button enterLogin = findViewById(R.id.blogin);
         enterLogin.setOnClickListener(this::sendPOST);
     }
 
