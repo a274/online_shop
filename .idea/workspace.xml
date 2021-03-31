@@ -63,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
         <option value="layoutResourceFile" />
       </list>
@@ -88,6 +89,14 @@
     <property name="android.sdk.path" value="D:/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AndriodProjects\online-shop\app\src\main\res\layout" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -178,8 +187,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="527" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1617036261871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617036261871" />
+    <state x="423" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1617000455698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1617000455698" />
     <state x="433" y="98" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616833501413">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -197,6 +215,10 @@
     </state>
     <state x="440" y="95" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617199957855" />
     <state x="495" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616848646540" />
+    <state x="495" y="107" key="FileChooserDialogImpl" timestamp="1616998575067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616998575067" />
     <state width="1481" height="145" key="GridCell.Tab.0.bottom" timestamp="1616848050095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -226,5 +248,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="398" y="176" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1536.824@0.0.1536.824" timestamp="1616778331385" />
+    <state x="542" y="127" key="refactoring.ChangeSignatureDialog" timestamp="1617036995979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="127" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1617036995979" />
+    <state x="-37" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1616998796921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-37" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616998796921" />
   </component>
 </project>
