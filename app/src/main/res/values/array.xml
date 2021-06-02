@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categories">
+
+        <item>Молоко</item>
+        <item>Мясо</item>
+        <item>Мясные полуфабрикаты</item>
+        <item>Мёд</item>
+        <item>Вода</item>
+        <item>Овощи</item>
+        <item>Фрукты</item>
+
+    </string-array>
+</resources>
